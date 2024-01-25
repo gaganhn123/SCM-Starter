@@ -24,6 +24,6 @@ Deploy the contract to the desired blockchain network.
 Monitor the contract's performance and transactions in the analytics dashboard.
 
 Authors:
-Metacrafter Chris
-@metacraftersio
+GAGAN
+@gaganhn2004@gmail.com
 
