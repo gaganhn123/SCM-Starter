@@ -1,12 +1,29 @@
-# Starter Next/Hardhat Project
+Smart Contract Management 
 
-After cloning the github, you will want to do the following to get the code running on your computer.
+The Smart Contract Management System is a comprehensive solution for the efficient creation, deployment, and monitoring of smart contracts on blockchain networks. This system aims to streamline the entire lifecycle of smart contracts, from development and testing to deployment and maintenance.
 
-1. Inside the project directory, in the terminal type: npm i
-2. Open two additional terminals in your VS code
-3. In the second terminal type: npx hardhat node
-4. In the third terminal, type: npx hardhat run --network localhost scripts/deploy.js
-5. Back in the first terminal, type npm run dev to launch the front-end.
+The features are as follows:
+Smart Contract Creation, Testing Environment, Monitoring and Analytics, Access Control and Documentation
 
-After this, the project will be running on your localhost. 
-Typically at http://localhost:3000/
+Prerequisites:
+Node.js
+Solidity Compiler
+Metamask wallet
+
+Hot to run the program:
+Clone Repository
+Install Dependencies
+Compile Smart Contracts
+Test Smart Contract
+Monitor and Manage Contract
+
+Usage:
+Create a new smart contract using the provided interface or by uploading code.
+Test the contract in the designated testing environment.
+Deploy the contract to the desired blockchain network.
+Monitor the contract's performance and transactions in the analytics dashboard.
+
+Authors:
+Metacrafter Chris
+@metacraftersio
+
